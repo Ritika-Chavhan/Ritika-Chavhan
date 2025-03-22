@@ -39,7 +39,7 @@ Web Scraping Automation: Developed efficient web scraping solutions using Seleni
 
 ## 📬 **Let’s Connect**
 - **📧 Email**: [ritikachavhan463@gmail.com](ritikachavhan463@gmail.com)  
-- **💼 LinkedIn**:[Ritika Chavhan](www.linkedin.com/in/ritika-chavhan-761609232)  
+- **💼 LinkedIn**:(www.linkedin.com/in/ritika-chavhan-761609232)  
 
 ---
 
