@@ -34,6 +34,7 @@ Additional Tools: Streamlit, Git, VS Code
 ## **📈 Key Achievements**
 
 Power BI Dashboard Development: Created dynamic and industry-specific dashboards to enhance data visualization and decision-making.
+
 Web Scraping Automation: Developed efficient web scraping solutions using Selenium and BeautifulSoup to automate data collection.
 
 ---
