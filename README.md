@@ -8,9 +8,7 @@ I’m Ritika Chavhan, a Data Analyst specializing in Python, SQL, Power BI, and 
 ## 🌟 **About Me**
 Technical Expertise: Proficient in Python (Pandas, NumPy, Matplotlib, Seaborn), SQL, Power BI, Advanced Excel, Statistics, and Web Scraping.
 
-Continuous Learning: Currently expanding my knowledge in Machine Learning, with a focus on supervised and unsupervised models.
-
-Career Vision: Aspiring to develop AI-driven solutions that transform raw data into strategic, data-driven decisions.
+Continuous Learning: Currently expanding my knowledge in Machine Learning.
 
 Personal Interests: Passionate about data storytelling, designing interactive dashboards, and staying updated on emerging technologies.
 
