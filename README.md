@@ -14,18 +14,23 @@ Personal Interests: Passionate about data storytelling, designing interactive da
 
 ---
 
-## 🔧 **Technical Skills**
-Programming & Tools
+🚀 Technical Expertise:
+---
+✔️ Programming: Python (Pandas, NumPy, Matplotlib, Seaborn)
 
-Languages: Python, SQL, DAX
+✔️ Data Management: SQL, Power BI, Advanced Excel
 
-Data Analysis: Pandas, NumPy, Statistics
+✔️ Data Visualization: Power BI, Matplotlib, Seaborn
 
-Data Visualization: Power BI, Matplotlib, Seaborn, Excel (Advanced)
+✔️ Automation & Web Scraping: Selenium, BeautifulSoup
 
-Automation & Web Scraping: Selenium, BeautifulSoup
+✔️ Other Tools: Streamlit, Git, VS Code
 
-Additional Tools: Streamlit, Git, VS Code
+📚 Continuous Learning: Currently exploring Machine Learning to refine predictive modeling and automation skills.
+
+🎨 Passions: Data storytelling, designing interactive dashboards, and staying ahead of tech trends.
+
+
 
 ---
 
